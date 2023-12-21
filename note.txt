@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=LoYbN6qoQHA
+npm i uuid
+
+
+//font awesome  1. Add SVG Core
+npm i --save @fortawesome/fontawesome-svg-core
+
+
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+
+ //3. Add the React Component
+npm i --save @fortawesome/react-fontawesome@latest
