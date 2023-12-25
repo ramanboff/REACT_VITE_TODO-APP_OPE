@@ -8,7 +8,7 @@ const Todo = ({task,text}) => {
   return (
     <div className="Todo">
       <p>{text.task}</p>
-      <h2>khasvbcaljbcsaljcbaljbc</h2>
+      <h2>khasvbcaljbcsaljcbaljdsbc</h2>
       <div>
         <FontAwesomeIcon  icon={faPenToSquare} className="edit-icon" />
         <FontAwesomeIcon  icon={faTrash} className="delete-icon"  />
